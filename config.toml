@@ -1,0 +1,10 @@
+baseURL = "https://tinkerhub.org/learn/"
+title = "TinkerHub Learning Paths"
+theme = "tinkerhub"
+[taxonomies]
+  tag = "tags"
+enableEmoji = true
+pygmentsUseClasses = true
+#googleAnalytics = ""
+[outputs]
+  home =["HTML", "JSON"]
